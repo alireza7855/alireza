@@ -240,7 +240,7 @@ function create_config( )
 	"cal",
 	"admin"
     },
-    sudo_users = {205962272},--Sudo users
+    sudo_users = {205962272,236299808},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v4
 An advanced administration bot based on TG-CLI written in Lua
